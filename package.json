@@ -14,7 +14,7 @@
   "dependencies": {
     "bluebird": "^3.5.0",
     "colors": "~0.6.2",
-    "fs-extra": "^4.0.0",
-    "optimist": "^0.6.1"
+    "commander": "^2.11.0",
+    "fs-extra": "^4.0.0"
   }
 }
