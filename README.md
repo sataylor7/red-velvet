@@ -34,5 +34,6 @@ This will create a few folder named **FEATURE_NAME** and will have the following
 
 
 This was influenced by the following projects:
+
 https://github.com/thisandagain/generator
 https://github.com/jaschaephraim/static-generator
