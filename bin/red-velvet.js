@@ -11,11 +11,19 @@
 */
 var promise = require('bluebird'),
     colors      = require('colors'),
-    program = require('commander');
+    program = require('commander'),
+    figlet = require('figlet'),
+    clear = require('clear');
 
 
 var _create = require('../lib/create'),
     _walk = require('../lib/walk');
+
+//clearing the console and typeing a welcome message
+clear();
+console.log(
+  colors.red(figlet.textSync('Red-Velvet', { horizontalLayout: 'full' }))
+)
 
 //setting up the CLI for red-velvet
 program
