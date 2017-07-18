@@ -31,3 +31,8 @@ This will create a few folder named **FEATURE_NAME** and will have the following
 - [NAME]Container.js
 
 *Everywhere [NAME] appears will be replaced by the FEATURE_NAME*
+
+
+This was influenced by the following projects:
+https://github.com/thisandagain/generator
+https://github.com/jaschaephraim/static-generator
