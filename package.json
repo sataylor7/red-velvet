@@ -1,0 +1,20 @@
+{
+  "name": "red-velvet",
+  "version": "1.0.0",
+  "description": "A simple generator for our react/redux/react-router features",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "red-velvet": "./bin/red-velvet.js"
+  },
+  "author": "S.A.Taylor",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "colors": "~0.6.2",
+    "fs-extra": "^4.0.0",
+    "optimist": "^0.6.1"
+  }
+}
