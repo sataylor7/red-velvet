@@ -9,6 +9,7 @@ export const initialState = [NAME]Model;
 
 const [NAME]Reducer = (state = initialState, action) => {
   switch( action.type ) {
+    // should be types.UPPERCASE_ACTION
     case types.[NAME]_SAMPLE : {
       return {
         ...state
